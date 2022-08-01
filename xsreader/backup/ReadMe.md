@@ -43,7 +43,9 @@
 
 ----------------------
 
-**haitang-blossoms仓库-自制与修改源**
+**[haitang-blossoms仓库-自制与修改源](https://github.com/haitang-blossoms/xiangsesource)**
+
+<details>
 
 备注、notes：
 |中文|eng|
@@ -168,9 +170,12 @@
 |Google Drive自定义|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/googledrive.xbs`|🍪|可自行修改成另类类型，别的资源|can self edit into other content types, other resources|
 ||||||
 
+</details>
 
 -----------
-**ksnohome**
+**[ksnohome(Uyukisan)](https://github.com/haitang-blossoms/xiangsesource)**
+
+<details>
 
 - 小说:``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/book.xbs``
 - 漫画:``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/comic.xbs``
@@ -474,11 +479,16 @@ https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/man
 ```
 https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/iimh.xbs
 ```
------------
+
+</details>
 
 -----------
 
-**xdeep视频源**
+-----------
+
+**[xdeep视频源(xiaohucode)](https://github.com/xiaohucode/xiangse)**
+
+<details>
 
 #### 视频源
 ```
@@ -614,6 +624,8 @@ https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/audio/laobaigs.xbs
 我听评书网 (老白故事的资源)
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/audio/wtpsw.xbs
 ```
+</details>
+
 --------
 
 --------
