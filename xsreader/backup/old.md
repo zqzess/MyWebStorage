@@ -15,7 +15,7 @@
 
 
 **xiangse仓库-海棠源**(https://gitee.com/xiangse/womeidejiayuan/blob/master/sourceModelList.xbs)
----> github地址:https://raw.githubusercontent.com/dejiayuan/xiangse/main/sourceModelList.xbs
+---> github地址:https://ghproxy.com/https://raw.githubusercontent.com/dejiayuan/xiangse/main/sourceModelList.xbs
 
 **flyWorld11仓库-笔趣阁50+**
 
@@ -36,8 +36,8 @@
 
 **haitang-blossoms仓库**转去github
 haitang-blossoms 的书宝移动与桌面已合并
-- 书宝网-移动网站：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/shubaowm.xbs``
-- 书宝网-桌面网站：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/shubaowd.xbs``
+- 书宝网-移动网站：``https://ghproxy.com/https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/shubaowm.xbs``
+- 书宝网-桌面网站：``https://ghproxy.com/https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/haitang-blossoms/shubaowd.xbs``
 
 **BigFanTu仓库-自制与修改源**
 

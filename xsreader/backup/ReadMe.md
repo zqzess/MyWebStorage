@@ -5,7 +5,7 @@
 ```
 
 ----------------------------------
-2022年7月05号更新
+2022年8月01号更新
 ----------------------------------
 **本人自制与修改源**
 
@@ -14,8 +14,9 @@
 **书源**
 
 修复起点中文©并变更备注为©zqzess
-- 起点中文©zqzess:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/myself/qidianChinese.xbs``
+- 起点中文©zqzess:``https://ghproxy.com/https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/myself/qidianChinese.xbs``
 
+-----
 **AlphonsoEstrada仓库**
 
 **优质书源**:``https://alphonsoestrada.coding.net/p/test/d/xiangse/git/raw/master/sourceModelList.xbs``
@@ -23,24 +24,27 @@
 **普通书源**:``https://alphonsoestrada.coding.net/p/test/d/xiangse/git/raw/master/sourceModelList2.xbs``
 
 
-
+------
 **xiangse仓库-海棠源**
 
-**书源**:``https://raw.githubusercontent.com/dejiayuan/xiangse/main/sourceModelList.xbs``
+**书源**:``https://ghproxy.com/https://raw.githubusercontent.com/dejiayuan/xiangse/main/sourceModelList.xbs``
 
-
+------
 **weilaiok仓库-漫画源**
 
 **书源**:``https://weilaiba.coding.net/p/s/d/s/git/raw/master/sourceModelList.xbs``
 
-
+-----
 **AliyaBatesBit仓库-听书源**
 
 **书源**:``https://aliyabates.coding.net/p/xs/d/xs/git/raw/master/sourceModelList.xbs``
 
+-------
 
 ----------------------
+
 **haitang-blossoms仓库-自制与修改源**
+
 备注、notes：
 |中文|eng|
 |--|--|
@@ -52,7 +56,6 @@
 |🪧||
 
 # 源-sources
-
 ## 文本-text
 
 |源名-source name|链接-link|标注|备注|notes|
@@ -62,17 +65,20 @@
 |晋江文学城-Jinjiang Literature City|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/jjwxc.xbs`|🔒🍪|||
 |豆腐小说-Doufu Novel|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/doufu.xbs`|🔒|有的发现规则并不会真的筛选，自己按照app的规模探索一下哪些combo有效||
 |书耽小说-Shudan Novel|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/shubl.xbs`|🔒🍪|||
-|长佩文学-Changpei Literature|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/gongzicp.xbs`|🔒🍪|发现板块有点内容获取缺失的问题，但大部分应该能用|discover rules have a slight content problem, but most of it should work|
+|长佩文学-Changpei Literature|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/gongzicp.xbs`|🔒🍪|正文有问题|content has problem|
 |寒武纪年|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/hanwujinian.xbs`|🔒|||
 |悸花阅读|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/lestory.xbs`|🔒|||
 |青果阅读|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/qingoo.xbs`|🔒|||
+|若初文学|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/ruochu.xbs`|🔒|没搜索||
 |恋文/Lovenovel|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/lovenovelapp.xbs`|🔒🏴󠁧󠁢󠁥󠁮󠁧󠁿|中英皆有|both English and Chinese|
+|neovel|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/neovel.xbs`|🔒🏴󠁧󠁢󠁥󠁮󠁧󠁿|懒得搞详细分类|lazy to write detailed sort|
 |笔趣阁xswang|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/biqugexswang.xbs`|🍪|||
 |笔下文学|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/bxwxorg.xbs`|🍪|||
 |腐小说|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/xpsam.xbs`|🍪|||
 |可乐小说网|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/xklxsw.xbs`|🍪|||
 |梦阮小说|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/mengruan.xbs`||||
 |All Novel|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/allnovel.xbs`|🏴󠁧󠁢󠁥󠁮󠁧󠁿|||
+|lightnovelreader|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/lightnovelreader.xbs`|🏴󠁧󠁢󠁥󠁮󠁧󠁿|||
 |书宝网|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/shubaow.xbs`|🍪|||
 |Collins English Dictionary|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/collinsdictionary.xbs`|🏴󠁧󠁢󠁥󠁮󠁧󠁿|字典，额，随便拿来玩玩呗|for fun, because why would you have a source just for dictionaries?|
 |NovelUpdates|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/novelupdates.xbs`|🏴󠁧󠁢󠁥󠁮󠁧󠁿🍪|资源导航网站，章节内容需按网址修改|resource navigation, content rules should be edited based on what site is redirected to|
@@ -88,9 +94,7 @@
 |耽美小说大全|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/dmxsdq.xbs`||全文为单一章节||
 |pingcc小说api|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/pingccfiction.xbs`||||
 ||||||
-
 ## 图片-images
-
 |源名-source name|链接-link|标注|备注|notes|
 |--|--|--|--|--|
 |哔哩哔哩漫画|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/bilibilimanga.xbs`|🔒|||
@@ -110,6 +114,7 @@
 |Manhuahot|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/manhuahot.xbs`|🏴󠁧󠁢󠁥󠁮󠁧󠁿|||
 |Mangakio|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/mangakio.xbs`|🏴󠁧󠁢󠁥󠁮󠁧󠁿|||
 |Read Manga Online|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/readm.xbs`|🏴󠁧󠁢󠁥󠁮󠁧󠁿|||
+|readmanga|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/readmanga.xbs`|🏴󠁧󠁢󠁥󠁮󠁧󠁿|||
 |Bato.To|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/batoto.xbs`|🏴󠁧󠁢󠁥󠁮󠁧󠁿|多语言|multiple languages|
 |Suburban Fairy Tales|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/francisbonnet.xbs`|🏴󠁧󠁢󠁥󠁮󠁧󠁿|没多少但是三格漫我挺推荐的|there's not much but the comic is one i recommend|
 |快看漫画|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/kkmh.xbs`|🔒🍪|||
@@ -128,10 +133,9 @@
 |pingcc漫画api|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/pingcccomic.xbs`||||
 |一耽女孩|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/dans.xbs`||||
 |3A漫画|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/308mh.xbs`||没有搜索只有发现；看不了小说||
+|BIKA|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/bika.xbs`||信息排版有点怪||
 ||||||
-
 ## 音频-audio
-
 |源名-source name|链接-link|标注|备注|notes|
 |--|--|--|--|--|
 |New Temp Drama House|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/tempyuriradiohouse.xbs`||单个音频为一个书籍|single audio equates one sole book|
@@ -152,10 +156,9 @@
 |MuXiv Music|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/muxiv.xbs`||||
 |听书王|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/wukongks.xbs`||||
 |有声小说大全api|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/yst8.xbs`||||
+|新❀华漫·6parkbbs|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/6parkbbs.xbs`||论坛资源，规则写的有点潦草所以封面不全音频名称看不到||
 ||||||
-
 ## 视频-video
-
 |源名-source name|链接-link|标注|备注|notes|
 |--|--|--|--|--|
 |快看漫剧|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/kuaikancomicdrama.xbs`|🔒|||
@@ -163,6 +166,8 @@
 |YouTube|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/youtube.xbs`|🔒🍪|单个视频为一书籍;使用的是第三方服务，2+小时时长不可看，可能会崩; 可被修改为听书源; 发现规则可修改moreKeys|single video equates one book; uses third party service, 2+ hour video may not work; can be edited to mp3; discover can be edited in moreKeys|
 |Animeowl|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/animeowl.xbs`||||
 |Google Drive自定义|`https://github.com/haitang-blossoms/xiangsesource/raw/main/xiangsesource-master/newxbs/googledrive.xbs`|🍪|可自行修改成另类类型，别的资源|can self edit into other content types, other resources|
+||||||
+
 
 -----------
 **ksnohome**
@@ -170,38 +175,312 @@
 - 小说:``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/book.xbs``
 - 漫画:``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/comic.xbs``
 
+
+**R16**
+- iwara
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/other/R16/iwara.xbs
+```
+- [more](https://cloud.stackblog.eu.org/cloudfile/其他文件/other%20source)(click me to follow)
+```
+https://cloud.stackblog.eu.org/cloudfile/其他文件/other%20source
+```
+
 **音频**
-- 九酷音乐``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/9ku.xbs``
-- 清风DJ``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/vvvjd.xbs``
-- 六月听书``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/6yue.xbs``
+- 九酷音乐
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/9ku.xbs
+```
+- 网易云音乐
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/wyymusic.xbs
+```
+- 铜钟音乐
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/tonzhon.xbs
+```
+> 搜索默认使用netease平台，如果需要搜索其他平台，请在搜索框输入：歌名@平台。平台包括netease、qq、kuwo。比如搜索歌名“念念”： 念念@netease、念念@qq、念念@kuwo
+- 六月听书
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/6yue.xbs
+```
+- 六月听书（电脑端）
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/6yue_pc.xbs
+```
+- 青空朗読(音)
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/aozora_audio.xbs
+```
+- 故事FM
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/storyfm.xbs
+```
+- 清风DJ(无法播放)
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/vvvjd.xbs
+```
+- 清风DJ（视频源)
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/vvvjdv.xbs
+```
+- 馨雨听书
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/xinyuts.xbs
+```
+- 听神马
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/tingsm.xbs
+```
 
 **视频**
-- 青年大学习``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cyol.xbs``
-- 青年大学习（微电影、中国有故事……)``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cyolv.xbs``
+- 青年大学习
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cyol.xbs
+```
+- 青年大学习（微电影、中国有故事……)
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cyolv.xbs
+```
+- 剧嗨live（电视直播）
+```
+https://vidcache.net:8161/static/351bbb7553ab76963c82559bed1ca4a84e1458c4/julive.xbs
+```
+- 天空影视
+```
+https://vidcache.net:8161/static/2e9e7f03129914c6ccaab214922db471205937a4/tkys.xbs
+```
+- 每天一部电影
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/onemovie.xbs
+```
+- 哔哩哔哩UP主、哔哩哔哩视频
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/bilibili.xbs
+```
+- 猫耳直播(音)
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/maoerlive.xbs
+```
+- 哔哩哔哩直播
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/bilibililive.xbs
+```
+- 开眼
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/kaiyan.xbs
+```
+- IPTV(电视直播，比较推荐)
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/IPTV.xbs
+```
+- IPTV2(电视直播)
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/IPTV2.xbs
+```
+- 国内电视台(电视直播)
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/chinatv.xbs
+```
+- 国外电视台(电视直播，需要加速网络)
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/foreigntv.xbs
+```
+- 央视频道
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cctv.xbs
+```
+- 虎牙剧场（电视直播）
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/huyatv.xbs
+```
+- 双辞动漫
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/scdmfun.xbs
+```
+- 绕滚影院
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/raogun.xbs
+```
 
 **实用工具**
-- 天气API(七日)``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/weather_7days.xbs``
-- 天气API(实况)``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/weather_now.xbs``
+- 天气API(七日/实况)
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/weather.xbs
+```
+- QQ号获取头像
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/qqimg.xbs
+```
+- QQ号获取昵称
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/qqname.xbs
+```
+- 手机号归属地查询
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/mobileplace.xbs
+```
 
 **更新(漫画&小说)**
-- 古风小说``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/gufengxs.xbs``
-- 新八一中文``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/x81zw.xbs``
-- 天籁小说``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/tianlaixs.xbs``
-- 笔趣阁7``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/biqu7.xbs``
-- All Novel``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/allnovel.xbs``
-- 书屋小说``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/shu5xs.xbs``
-- Kissmanga（英文漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/kissmanga.xbs``
-- Lovehug（日文漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/lovehug.xbs``
-- Sakuramanga（日文漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/sakuramanga.xbs``
-- 好漫6（漫画）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/haoman.xbs``
-- wallhaven（壁纸）``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/wallhaven.xbs``
-- 古风漫画``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/gufengmh.xbs``
+- 古风小说
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/gufengxs.xbs
+```
+- 新八一中文
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/x81zw.xbs
+```
+- 天籁小说
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/tianlaixs.xbs
+```
+- 笔趣阁7
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/biqu7.xbs
+```
+- All Novel
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/allnovel.xbs
+```
+- 书屋小说
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/shu5xs.xbs
+```
+- 爱读部落
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/aidubuluo.xbs
+```
+- 霹雳书坊（被墙）
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/pilibook.xbs
+```
+- 霹雳书坊2（暂时能用）
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/pilibook2.xbs
+```
+- 宝书网（网站关了）
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/baoshuw.xbs
+```
+- 趣书网（宝书网替代品）
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/qushuw.xbs
+```
+- 饭饭文学（需要登入）
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/fanfanwx.xbs
+```
+- 文学吧（文学作品）
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/wenxue8.xbs
+```
+- 燃文小说
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/ranwen1.xbs
+```
+- 2k小说
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/2kxs.xbs
+```
+- 青空朗読
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/aozora_text.xbs
+```
+- Kissmanga（英文漫画）
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/kissmanga.xbs
+```
+- Lovehug（日文漫画）
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/lovehug.xbs
+```
+- Sakuramanga（日文漫画）
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/sakuramanga.xbs
+```
+- 好漫6（漫画）
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/haoman.xbs
+```
+- 仙漫网
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/xianman.xbs
+```
+- 5漫画
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/5manh.xbs
+```
+- wallhaven（壁纸）
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/wallhaven.xbs
+```
+- 3G壁纸
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/3gbizhi.xbs
+```
+- 搜优图
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/souyt.xbs
+```
+- iconfinder
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/iconfinder.xbs
+```
+- 古风漫画
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/gufengmh.xbs
+```
+- 百年漫画
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/bnmh.xbs
+```
+- xiangkan漫画
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/xiangkanmh.xbs
+```
+- 动漫啦
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/dongmanla.xbs
+```
+- 漫画猫
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/mhmao.xbs
+```
+- 好漫8
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/haoman8.xbs
+```
+- 好漫8 ②
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/haomanwu.xbs
+```
+- 免追漫画
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/mianzhui.xbs
+```
+- 可可漫画
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cocomh.xbs
+```
+- 漫画飞（比较推荐）
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/manhuafei.xbs
+```
+- Manga Clash（英文漫画）
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/mangaclash.xbs
+```
+- 爱爱漫画
+```
+https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/iimh.xbs
+```
 -----------
 
 -----------
+
 **xdeep视频源**
 
-# 视频源
+#### 视频源
 ```
 97kp(优质源)包含国内外影视剧 解析快-资源一般
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/97kp.xbs
@@ -257,7 +536,7 @@ https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/18av.xbs
 hanime动漫🔞 H动漫;懂得都懂(萪敩仩蛧)
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/hanime.xbs
 ```
-# 漫画源
+#### 漫画源
 ```
 奇漫屋(优) 国漫多
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qimanwu.xbs
@@ -286,7 +565,7 @@ https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/mugua.xbs
 亲亲漫画 国漫资源一般,主要🔞日漫韩漫
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qinhm.xbs
 ```
-# 小说源
+#### 小说源
 
 
 
@@ -327,7 +606,7 @@ https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/360xs.xbs
 ```
 
 
-# 有声
+### 有声
 ```
 老白故事 (抓的APP端的资源)
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/audio/laobaigs.xbs
@@ -336,6 +615,28 @@ https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/audio/laobaigs.xbs
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/audio/wtpsw.xbs
 ```
 --------
+
+--------
+[**Fantuan-cell(BigFanTu)**](https://github.com/Fantuan-cell/XsRead)
+```
+https://fastly.jsdelivr.net/gh/Fantuan-cell/XsRead@main/comic/comicFileName.txt
+https://fastly.jsdelivr.net/gh/Fantuan-cell/XsRead@main/Movie/MovieFileName.txt
+https://fastly.jsdelivr.net/gh/Fantuan-cell/XsRead@main/Music/MusicFileName.txt
+https://fastly.jsdelivr.net/gh/Fantuan-cell/XsRead@main/Novel/NovelFileName.txt
+```
+----------
+
+---------
+**[My-naevis](https://github.com/My-naevis/xiangseguige)**
+
+- 乐文小说01：``https://ghproxy.com/https://ghproxy.com/https://raw.githubusercontent.com/My-naevis/xiangseguige/main/%E4%B9%90%E6%96%87%E5%B0%8F%E8%AF%B401.xbs``
+- 御书网: ``https://ghproxy.com/https://raw.githubusercontent.com/My-naevis/xiangseguige/main/%E5%BE%A1%E4%B9%A6%E7%BD%91.xbs``
+- 晨曦小说网: ``https://ghproxy.com/https://raw.githubusercontent.com/My-naevis/xiangseguige/main/%E6%99%A8%E6%9B%A6%E5%B0%8F%E8%AF%B4%E7%BD%91.xbs``
+- 笔趣阁nso92: ``https://ghproxy.com/https://raw.githubusercontent.com/My-naevis/xiangseguige/main/%E7%AC%94%E8%B6%A3%E9%98%81nso92.xbs``
+- 腐宅屋: ``https://ghproxy.com/https://raw.githubusercontent.com/My-naevis/xiangseguige/main/%E8%85%90%E5%AE%85%E5%B1%8B.xbs``
+- 趣app: ``https://ghproxy.com/https://raw.githubusercontent.com/My-naevis/xiangseguige/main/%E8%B6%A3app.xbs``
+
+---------
 
 
 ## 帮助说明

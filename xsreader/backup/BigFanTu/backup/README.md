@@ -4,11 +4,11 @@
 
 2. 在线正则网站 ： https://tool.chinaz.com/regex
 
-3. moreKeys模板：https://gitee.com/BigFanTu/XsRead-source/blob/master/backup/moreKeys.json
+3. moreKeys模板：https://github.com/Fantuan-cell/XsRead/blob/main/backup/moreKeys.json
 
-4. JSON编辑器：https://gitee.com/BigFanTu/XsRead-source/tree/master/backup/JSONedit.7z 
+4. JSON编辑器：https://github.com/Fantuan-cell/XsRead/blob/main/backup/JSONedit.7z
 
- 5. 影视音频源 正文嗅探模板 ：https://gitee.com/BigFanTu/XsRead/blob/master/Movie/%E9%9F%B3%E9%A2%91%E8%A7%86%E9%A2%91%E6%BA%90%E6%AD%A3%E6%96%87%E5%97%85%E6%8E%A2%E6%95%99%E7%A8%8B.xbs
+ 5. 影视音频源 正文嗅探模板 ：https://github.com/Fantuan-cell/XsRead/blob/main/backup/%E9%9F%B3%E9%A2%91%E8%A7%86%E9%A2%91%E6%BA%90%E6%AD%A3%E6%96%87%E5%97%85%E6%8E%A2%E6%95%99%E7%A8%8B.xbs
 
     
 
