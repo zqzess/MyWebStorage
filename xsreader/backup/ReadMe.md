@@ -5,7 +5,7 @@
 ```
 
 ----------------------------------
-2022年8月01号更新
+2022年8月06号更新
 ----------------------------------
 **本人自制与修改源**
 
@@ -177,307 +177,298 @@
 
 <details>
 
-- 小说:``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/book.xbs``
-- 漫画:``https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/comic.xbs``
+- 小说:``https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/book.xbs``
+- 漫画:``https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/comic.xbs``
 
 
-**R16**
-- iwara
-```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/other/R16/iwara.xbs
-```
-- [more](https://cloud.stackblog.eu.org/cloudfile/其他文件/other%20source)(click me to follow)
-```
-https://cloud.stackblog.eu.org/cloudfile/其他文件/other%20source
-```
 
 **音频**
 - 九酷音乐
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/9ku.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/9ku.xbs
 ```
 - 网易云音乐
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/wyymusic.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/wyymusic.xbs
 ```
 - 铜钟音乐
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/tonzhon.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/tonzhon.xbs
 ```
 > 搜索默认使用netease平台，如果需要搜索其他平台，请在搜索框输入：歌名@平台。平台包括netease、qq、kuwo。比如搜索歌名“念念”： 念念@netease、念念@qq、念念@kuwo
 - 六月听书
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/6yue.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/6yue.xbs
 ```
 - 六月听书（电脑端）
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/6yue_pc.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/6yue_pc.xbs
 ```
 - 青空朗読(音)
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/aozora_audio.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/aozora_audio.xbs
 ```
 - 故事FM
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/storyfm.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/storyfm.xbs
 ```
 - 清风DJ(无法播放)
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/vvvjd.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/vvvjd.xbs
 ```
 - 清风DJ（视频源)
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/vvvjdv.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/vvvjdv.xbs
 ```
 - 馨雨听书
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/xinyuts.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/xinyuts.xbs
 ```
 - 听神马
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/tingsm.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/tingsm.xbs
 ```
 
 **视频**
 - 青年大学习
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cyol.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/cyol.xbs
 ```
 - 青年大学习（微电影、中国有故事……)
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cyolv.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/cyolv.xbs
 ```
 - 剧嗨live（电视直播）
 ```
-https://vidcache.net:8161/static/351bbb7553ab76963c82559bed1ca4a84e1458c4/julive.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/julive.xbs
 ```
 - 天空影视
 ```
-https://vidcache.net:8161/static/2e9e7f03129914c6ccaab214922db471205937a4/tkys.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/tkys.xbs
 ```
 - 每天一部电影
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/onemovie.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/onemovie.xbs
 ```
 - 哔哩哔哩UP主、哔哩哔哩视频
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/bilibili.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/bilibili.xbs
 ```
 - 猫耳直播(音)
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/maoerlive.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/maoerlive.xbs
 ```
 - 哔哩哔哩直播
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/bilibililive.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/bilibililive.xbs
 ```
 - 开眼
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/kaiyan.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/kaiyan.xbs
 ```
 - IPTV(电视直播，比较推荐)
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/IPTV.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/IPTV.xbs
 ```
 - IPTV2(电视直播)
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/IPTV2.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/IPTV2.xbs
 ```
 - 国内电视台(电视直播)
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/chinatv.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/chinatv.xbs
 ```
 - 国外电视台(电视直播，需要加速网络)
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/foreigntv.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/foreigntv.xbs
 ```
 - 央视频道
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cctv.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/cctv.xbs
 ```
 - 虎牙剧场（电视直播）
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/huyatv.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/huyatv.xbs
 ```
 - 双辞动漫
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/scdmfun.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/scdmfun.xbs
 ```
 - 绕滚影院
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/raogun.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/raogun.xbs
 ```
 
 **实用工具**
 - 天气API(七日/实况)
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/weather.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/weather.xbs
 ```
 - QQ号获取头像
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/qqimg.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/qqimg.xbs
 ```
 - QQ号获取昵称
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/qqname.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/qqname.xbs
 ```
 - 手机号归属地查询
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/mobileplace.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/mobileplace.xbs
 ```
 
 **更新(漫画&小说)**
 - 古风小说
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/gufengxs.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/gufengxs.xbs
 ```
 - 新八一中文
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/x81zw.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/x81zw.xbs
 ```
 - 天籁小说
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/tianlaixs.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/tianlaixs.xbs
 ```
 - 笔趣阁7
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/biqu7.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/biqu7.xbs
 ```
 - All Novel
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/allnovel.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/allnovel.xbs
 ```
 - 书屋小说
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/shu5xs.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/shu5xs.xbs
 ```
 - 爱读部落
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/aidubuluo.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/aidubuluo.xbs
 ```
 - 霹雳书坊（被墙）
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/pilibook.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/pilibook.xbs
 ```
 - 霹雳书坊2（暂时能用）
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/pilibook2.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/pilibook2.xbs
 ```
 - 宝书网（网站关了）
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/baoshuw.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/baoshuw.xbs
 ```
 - 趣书网（宝书网替代品）
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/qushuw.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/qushuw.xbs
 ```
 - 饭饭文学（需要登入）
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/fanfanwx.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/fanfanwx.xbs
 ```
 - 文学吧（文学作品）
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/wenxue8.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/wenxue8.xbs
 ```
 - 燃文小说
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/ranwen1.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/ranwen1.xbs
 ```
 - 2k小说
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/2kxs.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/2kxs.xbs
 ```
 - 青空朗読
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/aozora_text.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/aozora_text.xbs
 ```
 - Kissmanga（英文漫画）
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/kissmanga.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/kissmanga.xbs
 ```
 - Lovehug（日文漫画）
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/lovehug.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/lovehug.xbs
 ```
 - Sakuramanga（日文漫画）
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/sakuramanga.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/sakuramanga.xbs
 ```
 - 好漫6（漫画）
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/haoman.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/haoman.xbs
 ```
 - 仙漫网
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/xianman.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/xianman.xbs
 ```
 - 5漫画
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/5manh.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/5manh.xbs
 ```
 - wallhaven（壁纸）
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/wallhaven.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/wallhaven.xbs
 ```
 - 3G壁纸
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/3gbizhi.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/3gbizhi.xbs
 ```
 - 搜优图
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/souyt.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/souyt.xbs
 ```
 - iconfinder
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/iconfinder.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/iconfinder.xbs
 ```
 - 古风漫画
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/gufengmh.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/gufengmh.xbs
 ```
 - 百年漫画
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/bnmh.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/bnmh.xbs
 ```
 - xiangkan漫画
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/xiangkanmh.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/xiangkanmh.xbs
 ```
 - 动漫啦
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/dongmanla.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/dongmanla.xbs
 ```
 - 漫画猫
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/mhmao.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/mhmao.xbs
 ```
 - 好漫8
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/haoman8.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/haoman8.xbs
 ```
 - 好漫8 ②
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/haomanwu.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/haomanwu.xbs
 ```
 - 免追漫画
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/mianzhui.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/mianzhui.xbs
 ```
 - 可可漫画
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/cocomh.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/cocomh.xbs
 ```
 - 漫画飞（比较推荐）
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/manhuafei.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/manhuafei.xbs
 ```
 - Manga Clash（英文漫画）
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/mangaclash.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/mangaclash.xbs
 ```
 - 爱爱漫画
 ```
-https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/iimh.xbs
+https://ghproxy.com/https://raw.githubusercontent.com/Uyukisan/stackcloudtalk/main/source/iimh.xbs
 ```
 
 </details>
