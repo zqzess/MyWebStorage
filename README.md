@@ -14,7 +14,7 @@
 
 - [自制与修改源_加速链接 https://ghproxy.com/https://github.com/zqzess/MyWebStorage/blob/main/xsreader/myself/ReadMe.md](https://ghproxy.com/https://github.com/zqzess/MyWebStorage/blob/main/xsreader/myself/ReadMe.md)
 
-**更新时间** 2022年8月01日
+**更新时间** 2022年8月06日
 
 - [搬运整合源_原始链接 https://github.com/zqzess/MyWebStorage/blob/main/xsreader/backup/ReadMe.md](https://github.com/zqzess/MyWebStorage/blob/main/xsreader/backup/ReadMe.md)
 
