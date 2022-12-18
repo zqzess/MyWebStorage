@@ -23,4 +23,4 @@
 ## 自动更新
 **自动更新时间** 2022-12-18 21:28:18
 
-[整合源链接]()
+[整合源链接: https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/new/resources.txt](https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/new/resources.txt)
