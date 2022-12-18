@@ -60,25 +60,13 @@ def printLog(log, color=''):
 
 # 关键字检索
 def checkxbsName(name):
-    isAbandon = False
-    list = ['书源合集', '整合', '交流群', '测试', 'beta', 'QQ频道', 'QQ群', '模版', '例子', '示例', 'Beta', 'BETA',
-            '样板', '样版', '样本', '拷贝', '模板', '教程', '制作', '调试', '合集', '汇总', '废弃']
+    isDrop = False
+    list = ['书源合集', '整合', '交流群', '测试', 'beta', 'QQ频道', 'QQ群', '模版', '例子', '示例', 'Beta', 'BETA']
     for value in list:
         if re.search(value, name):
             printLog('发现关键词: ' + name + '  , 丢弃', 'warn')
-            isAbandon = True
-    return isAbandon
-
-
-# 检查仓库作者名字，忽略整合搬运fork源作者仓库
-def checkUserName(name):
-    isAbandon = False
-    list = ['shidahuilang', 'jumpli', 'ThorJsbox', 'TinhoXu', 'zqzess', 'tickmao', 'Cyril0563', 'lTbgykio', 'Dujltqzv']
-    for value in list:
-        if re.search(value, name):
-            printLog('发现黑名单内的作者: ' + name + '  , 丢弃', 'warn')
-            isAbandon = True
-    return isAbandon
+            isDrop = True
+    return isDrop
 
 
 # 启动入口
@@ -94,8 +82,10 @@ def startWork():
         srcUrl = i[2]  # 资源链接
         nowPath = '../repo/' + user + '/'  # 路径拼接，../repo/zqzess
 
-        if checkUserName(user):
-            # 该作者仓库疑似搬运，跳过
+        if user == 'jumpli':
+            # 改作者仓库疑似搬运，跳过
+            continue
+        if user == 'zqzess' or user == '' or user == 'ThorJsbox' or user == 'TinhoXu':
             continue
         # 检查是否存在该用户仓库存放文件夹
         if not os.path.exists(nowPath):
@@ -117,7 +107,6 @@ def startWork():
     [p.start() for p in process]
     # 等待子进程结束后再继续往下运行，在当前位置阻塞主进程
     [p.join() for p in process]
-    printLog('\n更新完成 !!!', 'lightblue')
 
 
 def readRepoFromJson():
@@ -160,7 +149,7 @@ def parseResouece(nowPath, user, repo, srcUrl):
         srcUrl = urlChangeToRaw(srcUrl)
         printLog('资源链接是xbs文件: ' + srcUrl, 'red')
         writeSourcesListLock(lock, srcUrl)
-        downloadResource3(nowPath, srcUrl.strip())
+        downloadResource(nowPath, srcUrl.strip())
     elif re.search('\.md', srcUrl) or re.search('\.txt', srcUrl) or re.search('\.conf', srcUrl):
         srcUrl = urlChangeToRaw(srcUrl)
         getResource(lock, nowPath, srcUrl.strip())
@@ -199,58 +188,28 @@ def getResource(lock, path, srcUrl):
             threading.Thread(target=downloadResource, args=(path, url)).start()
 
 
-# 解析html资源,传入的链接是仓库地址
+# 解析html资源
 def getHtmlResource(lock, path, user, repo, srcUrl):
-    # github api 获取仓库根目录下文件目录
     repoApiUrl = 'https://api.github.com/repos/' + user + '/' + repo + '/contents'
     reponse = requests.get(repoApiUrl).json()
     if reponse:
         for i in reponse:
             name = i.get('name')
             srcUrl = i.get('download_url')
-            type = i.get('type')
-            dirpath = i.get('path')
             if checkxbsName(name):
                 continue
-            if type == 'file':
-                if checkxbsName(name):
-                    continue
-                elif re.search('\.xbs', name):
-                    writeSourcesListLock(lock, srcUrl)
-                    downloadResource(path, srcUrl)
-                elif re.search('\.md', name):
-                    printLog('发现markdown文件: ' + name)
-                else:
-                    printLog('未识别处理的文件: ' + name)
-            elif type == 'dir':
-                # github api 获取仓库子目录下文件目录
-                repoApiUrl2 = 'https://api.github.com/repos/' + user + '/' + repo + '/contents' + '/' + dirpath
-                res = requests.get(repoApiUrl2).json()
-                for i2 in res:
-                    if res:
-                        _name = i2.get('name')
-                        _srcUrl = i2.get('download_url')
-                        _type = i2.get('type')
-                        _dirpath = i2.get('path')
-                        if checkxbsName(_name):
-                            continue
-                        if _type == 'file':
-                            if checkxbsName(_name):
-                                continue
-                            elif re.search('\.xbs', _name):
-                                writeSourcesListLock(lock, _srcUrl)
-                                downloadResource(path, _srcUrl)
-                            elif re.search('\.md', _name):
-                                printLog('发现markdown文件: ' + _name)
-                            else:
-                                printLog('未识别处理的文件: ' + _name)
+            elif re.search('\.xbs', name):
+                writeSourcesListLock(lock, srcUrl)
+                downloadResource(path, srcUrl)
+            elif re.search('\.md', name):
+                printLog('发现markdown文件: ' + name)
 
 
 def downloadResource(path, srcUrl):
     tmpList = srcUrl.split('/')
     tmp = tmpList[len(tmpList) - 1]
     if re.search('%', tmp):
-        printLog('发现非法字符%\t' + tmp + ' ，进行urldecode', 'warn')
+        printLog('发现非法字符%，进行urldecode\t\t' + tmp, 'warn')
         tmp = urllib.parse.unquote(tmp)
     if not checkxbsName(tmp):
         path = path + tmp
@@ -273,8 +232,8 @@ def downloadResource(path, srcUrl):
         printLog('下载成功：' + path, 'success')
 
 
-# 下载速度似乎会更快一点,但是会有奇怪的错误
 def downloadResource2(path, srcUrl):
+    # 下载速度似乎会更快一点,但是会有奇怪的错误
     tmpList = srcUrl.split('/')
     tmp = tmpList[len(tmpList) - 1]
     if re.search('%', tmp):
@@ -301,35 +260,6 @@ def downloadResource2(path, srcUrl):
                 continue
             break
         printLog('下载成功：' + path, 'success')
-
-
-# 不对合集书源进行检查，只用于下载合集书源
-def downloadResource3(path, srcUrl):
-    tmpList = srcUrl.split('/')
-    tmp = tmpList[len(tmpList) - 1]
-    if re.search('%', tmp):
-        printLog('发现非法字符，进行urldecode', 'warn')
-        tmp = urllib.parse.unquote(tmp)
-    path = path + tmp
-    printLog('开始下载： ' + srcUrl.strip())
-    ssl._create_default_https_context = ssl._create_unverified_context
-    index = 0
-    while True:
-        try:
-            r = requests.get(srcUrl, stream=True)
-            with open(path, 'wb') as f:
-                for ch in r:
-                    f.write(ch)
-            f.close()
-            index += 1
-        except Exception as e:
-            printLog(srcUrl + ' 下载出错,重试', 'warn')
-            if index > 5:
-                printLog('已重试达到最大次数，停止！', 'error')
-            time.sleep(1)
-            continue
-        break
-    printLog('下载成功：' + path, 'success')
 
 
 def download_progress_hook(blocknum, blocksize, totalsize):
