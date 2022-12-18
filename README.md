@@ -3,6 +3,7 @@
 ```ruby
 前段时间收到了DMCA通知，刚好gitee所有仓库都私有了，所以本仓库就重置了
 ```
+## 请不要 Fork
 ## 香色闺阁
 ```ruby
 没有精力手动维护了，所以改用github action每周定时执行python脚本获取最新更新
@@ -21,6 +22,6 @@
 - ~~[搬运整合源_加速链接 https://ghproxy.com/https://github.com/zqzess/MyWebStorage/blob/main/xsreader/backup/ReadMe.md](https://ghproxy.com/https://github.com/zqzess/MyWebStorage/blob/main/xsreader/backup/ReadMe.md)~~
 
 ## 自动更新
-**自动更新时间** 2022-12-18 16:34:53
+**自动更新时间** 2022-12-19 00:37:01
 
 [整合源链接: https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/new/resources.txt](https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/new/resources.txt)
