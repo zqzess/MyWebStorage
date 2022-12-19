@@ -7,6 +7,7 @@
 @IDE ：PyCharm
 @Motto：So long as it is for my ideal,I wouldn't regret dying for it a thousand times.
 """
+import datetime
 import json
 import os
 import re
@@ -16,6 +17,7 @@ import time
 import urllib
 import ssl
 
+import pytz as pytz
 import requests
 from multiprocessing import Process, Queue, Manager
 
@@ -371,7 +373,9 @@ def writeSourcesList(srcUrl):
 
 def updateDate():
     text_list = []
-    dateNow = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time()))
+    # dateNow = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())) # 获取系统时间，在github action上会是其他时区
+    tz = pytz.timezone('Asia/Shanghai')  # 东八区
+    dateNow = datetime.datetime.fromtimestamp(int(time.time()), tz).strftime('%Y-%m-%d %H:%M:%S %Z%z')
     with open(readMePath, 'r', encoding="UTF-8") as f:
         for lineTmp in f.readlines():
             if re.search('自动更新时间', lineTmp):
