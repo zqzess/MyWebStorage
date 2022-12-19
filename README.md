@@ -4,6 +4,7 @@
 前段时间收到了DMCA通知，刚好gitee所有仓库都私有了，所以本仓库就重置了
 ```
 ## 请不要 Fork
+[**Telegram频道**](https://t.me/zqzessNews)
 ## 香色闺阁
 ```ruby
 没有精力手动维护了，所以改用github action每周定时执行python脚本获取最新更新
