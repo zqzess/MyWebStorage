@@ -64,10 +64,11 @@ def printLog(log, color=''):
 def checkxbsName(name):
     isAbandon = False
     list = ['书源合集', '整合', '交流群', '测试', 'beta', 'QQ频道', 'QQ群', '模版', '例子', '示例', 'Beta', 'BETA',
-            '样板', '样版', '样本', '拷贝', '模板', '教程', '制作', '调试', '合集', '汇总', '废弃']
+            '样板', '样版', '样本', '拷贝', '模板', '教程', '制作', '调试', '合集', '汇总', '废弃', 'Test', 'test',
+            'TEST']
     for value in list:
         if re.search(value, name):
-            printLog('发现关键词: ' + name + '  , 丢弃', 'warn')
+            printLog('发现关键词: ' + value + ' , ' + name + '  , 丢弃', 'warn')
             isAbandon = True
     return isAbandon
 
@@ -93,7 +94,7 @@ def startWork():
     for i in new_list:
         user = i[0]
         repo = i[1]  # 仓库链接
-        srcUrl = i[2]  # 资源链接
+        srcUrl = i[2].replace('https:/ghproxy.com/', '')  # 资源链接，移除加速代理域名
         nowPath = '../repo/' + user + '/'  # 路径拼接，../repo/zqzess
 
         if checkUserName(user):
