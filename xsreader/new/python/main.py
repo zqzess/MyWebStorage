@@ -94,7 +94,7 @@ def startWork():
     for i in new_list:
         user = i[0]
         repo = i[1]  # 仓库链接
-        srcUrl = i[2].replace('https:/ghproxy.com/', '')  # 资源链接，移除加速代理域名
+        srcUrl = i[2]  # 资源链接
         nowPath = '../repo/' + user + '/'  # 路径拼接，../repo/zqzess
 
         if checkUserName(user):
@@ -195,6 +195,7 @@ def getResource(lock, path, srcUrl):
     xbsList = re.findall('.+\.xbs', res.text)
     if xbsList:
         for url in xbsList:
+            url = url.replace('https://ghproxy.com/', '') # 移除加速代理网址前缀
             # tmp = url.split('/')
             # outpath = path + tmp[len(tmp) - 1]
             writeSourcesListLock(lock, url)
