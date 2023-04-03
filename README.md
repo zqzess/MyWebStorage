@@ -24,6 +24,6 @@
 - ~~[搬运整合源_加速链接 https://ghproxy.com/https://github.com/zqzess/MyWebStorage/blob/main/xsreader/backup/ReadMe.md](https://ghproxy.com/https://github.com/zqzess/MyWebStorage/blob/main/xsreader/backup/ReadMe.md)~~
 
 ## 自动更新
-**自动更新时间** 2023-03-27 08:22:09 CST+0800
+**自动更新时间** 2023-04-03 08:21:54 CST+0800
 
 [整合源链接: https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/new/resources.txt](https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/new/resources.txt)
