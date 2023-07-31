@@ -27,3 +27,6 @@
 **自动更新时间** 2023-07-31 09:25:51 CST+0800
 
 [整合源链接: https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/new/resources.txt](https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/new/resources.txt)
+
+
+[![Stargazers over time](https://starchart.cc/zqzess/MyWebStorage.svg)](https://starchart.cc/zqzess/MyWebStorage)
