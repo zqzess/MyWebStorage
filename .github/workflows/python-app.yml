@@ -37,7 +37,7 @@ jobs:
         python main.py
     - name: Commit changes
       run: |
-        git config user.email github-actions@github.com
+        git config user.email github-actions
         git config user.name github-actions
         git config user.password ${USER_PASSWORD}
         git add .
