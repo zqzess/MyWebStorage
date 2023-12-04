@@ -86,6 +86,7 @@ def checkUserName(name):
 
 # 启动入口
 def startWork():
+    start_time = time.time()
     new_list = readRepoFromJson()
     process = []
     if os.path.exists(resourcePath):
@@ -120,7 +121,10 @@ def startWork():
     [p.start() for p in process]
     # 等待子进程结束后再继续往下运行，在当前位置阻塞主进程
     [p.join() for p in process]
+    end_time = time.time()
+    elapsed_time = end_time - start_time
     printLog('\n更新完成 !!!', 'lightblue')
+    printLog(f"耗时: {elapsed_time} seconds", 'lightblue')
 
 
 def readRepoFromJson():
@@ -261,20 +265,22 @@ def downloadResource(path, srcUrl):
         printLog('开始下载： ' + srcUrl.strip())
         ssl._create_default_https_context = ssl._create_unverified_context
         index = 0
-        while True:
+        max_retries = 3
+        while index < max_retries:
             try:
                 urllib.request.urlretrieve(srcUrl, path)
-                index += 1
                 # urllib.request.urlretrieve(srcUrl, path, download_progress_hook)
             except Exception as e:
                 printLog(srcUrl + '  下载出错,重试', 'warn')
-                if index > 5:
-                    printLog('已重试达到最大次数，停止！', 'error')
+                index += 1
+                if index >= max_retries:
+                    printLog(srcUrl + '已重试达到最大次数，停止！', 'error')
+                    printLog(str(e), 'error')
                     break
                 time.sleep(1)
-                continue
-            break
-        printLog('下载成功：' + path, 'success')
+            else:
+                printLog('下载成功：' + path, 'success')
+                break
 
 
 # 下载速度似乎会更快一点,但是会有奇怪的错误
@@ -318,22 +324,25 @@ def downloadResource3(path, srcUrl):
     printLog('开始下载： ' + srcUrl.strip())
     ssl._create_default_https_context = ssl._create_unverified_context
     index = 0
-    while True:
+    max_retries = 3
+    while index < max_retries:
         try:
             r = requests.get(srcUrl, stream=True)
             with open(path, 'wb') as f:
                 for ch in r:
                     f.write(ch)
             f.close()
-            index += 1
         except Exception as e:
             printLog(srcUrl + ' 下载出错,重试', 'warn')
-            if index > 5:
-                printLog('已重试达到最大次数，停止！', 'error')
+            index += 1
+            if index >= max_retries:
+                printLog(srcUrl + '已重试达到最大次数，停止！', 'error')
+                printLog(str(e), 'error')
+                break
             time.sleep(1)
-            continue
-        break
-    printLog('下载成功：' + path, 'success')
+        else:
+            printLog('下载成功：' + path, 'success')
+            break
 
 
 def download_progress_hook(blocknum, blocksize, totalsize):
